@@ -38,7 +38,7 @@ Extensive experiments across five datasets demonstrate ROC4MLLM’s state-of-the
 
 
 ## Checkpoints
-* Download the weight from [Baidu Netdisk](https://pan.baidu.com/s/1GwX6AEsJ3txDpxPeCdY6LA?pwd=bupt). 
+* Download the weight from [Baidu Netdisk](https://pan.baidu.com/s/1GwX6AEsJ3txDpxPeCdY6LA?pwd=bupt) or [HuggingFace](https://huggingface.co/Ricardo-M/ROC4MLLM). 
 * Or Download the Docker environment from [Baidu Netdisk](https://pan.baidu.com/s/1IjRsT691hom9naxtjlIzKw?pwd=bupt). 
 
 ## Usage
