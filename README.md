@@ -69,7 +69,7 @@ pip install flash-attn --no-build
 from mplug_owl2.assessor import Assessment
 from PIL import Image
 
-assessment=Assessment(pretrained="../ROC4MLLM_weights")
+assessment=Assessment(pretrained="Ricardo-M/ROC4MLLM")
 images=["test_images/1_-10.jpg","test_images/1_-10.jpg"]
 input_img=[]
 for image in images:
