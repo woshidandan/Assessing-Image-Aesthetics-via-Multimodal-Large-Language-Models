@@ -59,7 +59,7 @@ pip install -e .
 3. 安装训练所需要的包
 ```
 pip install -e ".[train]"
-pip install flash-attn --no-build
+pip install flash-attn --no-build-isolation
 ```
 
 ### 快速开始
